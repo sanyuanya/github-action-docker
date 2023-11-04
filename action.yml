@@ -1,4 +1,4 @@
-name: 'build docker'
+name: 'build docker sanyuanya'
 description: 'build docker image'
 inputs:
   docker_hub_token:  
